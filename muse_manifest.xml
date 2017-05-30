@@ -1,0 +1,79 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promgazstroy.ru" resolutions="1x" timestamp="1496173106774">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="434933643" ref="02:index:04:документы:вакансии:прошед:реквизиты:руководство:контрагнегты:текущие:03:01"/>
+    <file name="02.css" crc="3871867876" ref="02"/>
+    <file name="index.css" crc="3921937234" ref="index"/>
+    <file name="04.css" crc="136554246" ref="04"/>
+    <file name="_________1.css" crc="311538068" ref="документы"/>
+    <file name="________.css" crc="3940817720" ref="вакансии"/>
+    <file name="______.css" crc="4090406347" ref="прошед"/>
+    <file name="_________.css" crc="532045647" ref="реквизиты"/>
+    <file name="___________.css" crc="3877386718" ref="руководство"/>
+    <file name="____________.css" crc="3800465862" ref="контрагнегты"/>
+    <file name="_______.css" crc="63605151" ref="текущие"/>
+    <file name="03.css" crc="331674042" ref="03"/>
+    <file name="01.css" crc="3785084266" ref="01"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="museutils.js" crc="4232573551" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="whatinput.js" crc="86476730" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:документы:02"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="require.js" crc="4234670167" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3865380260" ref="index"/>
+    <file name="symvol.jpg" crc="102575627" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u319-4.png" crc="533008713" ref="index:реквизиты:руководство:документы:вакансии:контрагнегты:прошед:текущие:01:02:03:04"/>
+    <file name="стрелка.jpg" crc="4285618728" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fon4.jpg" crc="38698357" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u573-27.png" crc="262121220" ref="реквизиты"/>
+    <file name="свидетельство - 0002-u600-fr.jpg" crc="3773897184" ref="документы"/>
+    <file name="свидетельство - 0003-u620-fr.jpg" crc="470803994" ref="документы"/>
+    <file name="свидетельство - 0004-u634-fr.jpg" crc="3830055470" ref="документы"/>
+    <file name="свидетельство - 0001-u651-fr.jpg" crc="521144943" ref="документы"/>
+    <file name="u913-4.png" crc="211581635" ref="текущие"/>
+    <file name="свидетельство - 0002.jpg" crc="272964679" ref="01">
+      <caption webpage="01" alt=""/>
+    </file>
+    <file name="свидетельство - 0003.jpg" crc="98946313" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="свидетельство - 0004.jpg" crc="4240802652" ref="03">
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="свидетельство - 0001.jpg" crc="3930483315" ref="04">
+      <caption webpage="04" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="255199148" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="реквизиты.html" crc="4065349374" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="руководство.html" crc="4029704391" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="документы.html" crc="379949060" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="вакансии.html" crc="369808288" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="контрагнегты.html" crc="4022325442" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="прошед.html" crc="3986965514" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="текущие.html" crc="3841024632" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="01.html" crc="3855862042" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="02.html" crc="499218821" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="03.html" crc="431046109" seo="true" mt="1496172068226" redirect="true"/>
+  <file name="04.html" crc="416226560" seo="true" mt="1496172068226" redirect="true"/>
+</manifest>
